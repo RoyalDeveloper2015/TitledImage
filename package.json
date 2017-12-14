@@ -1,6 +1,6 @@
 {
   "name": "titledimage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,9 @@
   "keywords": [
     "React",
     "Native",
-    "TitledImage"
+    "TitledImage",
+    "Image",
+    "React Native"
   ],
   "author": "RoyalDeveloper2015",
   "license": "ISC",
